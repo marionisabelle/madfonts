@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Inconsolata&effect=font-effect-fire-animation">
+    <style>
+      body {
+        font-family: 'Inconsolata', serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="font-effect-shadow-multiple">Holy Shmitt</div>
+  </body>
+</html> 
